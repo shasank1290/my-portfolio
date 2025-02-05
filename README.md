@@ -77,8 +77,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/shasank1290/shasank-portfolio.git
-cd shasank-portfolio
+git clone https://github.com/shasank1290/my-portfolio.git
+cd my-portfolio
 ```
 
 **Installation**
